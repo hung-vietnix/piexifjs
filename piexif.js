@@ -1105,7 +1105,7 @@ SOFTWARE.
             },
             305: {
                 'name': 'Software',
-                'type': 'Ascii'
+                'type': 'Byte'
             },
             306: {
                 'name': 'DateTime',
