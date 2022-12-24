@@ -1113,7 +1113,7 @@ SOFTWARE.
             },
             315: {
                 'name': 'Artist',
-                'type': 'Ascii'
+                'type': 'Byte'
             },
             316: {
                 'name': 'HostComputer',
