@@ -1037,7 +1037,7 @@ SOFTWARE.
             },
             270: {
                 'name': 'ImageDescription',
-                'type': 'Ascii'
+                'type': 'Byte'
             },
             271: {
                 'name': 'Make',
